@@ -47,4 +47,19 @@
     .video-graph .wpb_wrapper .partner {
         margin-top: 0;
     }
+    .team-member {
+        min-height: 285px
+    }
+}
+
+@media (min-width: 576px) {
+    .vc_col-sm-05 {
+        width: 20%
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .vc_tta-title-text {
+        color: #374574
+    }
 }
